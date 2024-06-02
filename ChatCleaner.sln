@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCleaner", "ChatCleaner\ChatCleaner.csproj", "{BCD70E83-E1FD-44D0-BD17-40FB8778488A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8AB1FA7B-558A-46CB-9B7F-398E966840A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD70E83-E1FD-44D0-BD17-40FB8778488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD70E83-E1FD-44D0-BD17-40FB8778488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD70E83-E1FD-44D0-BD17-40FB8778488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD70E83-E1FD-44D0-BD17-40FB8778488A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB1FA7B-558A-46CB-9B7F-398E966840A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB1FA7B-558A-46CB-9B7F-398E966840A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB1FA7B-558A-46CB-9B7F-398E966840A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB1FA7B-558A-46CB-9B7F-398E966840A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CD52E8-1A52-414F-A896-7BD606A6EBA2}
+	EndGlobalSection
+EndGlobal
